@@ -15,7 +15,7 @@ conclude the summer months provide a more comfortable environment for attending,
 weather may keep patrons from braving the elements of either driving or walking to see a play.
 
 #### Pivot Chart Data
-<img width="320" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/100530465/156436620-918cc234-f1d4-4001-824e-6f1183ae1146.png">
+![Theater Outcomes vs Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 
 ## **How outcomes are affected by the Goal**
@@ -27,7 +27,7 @@ $5,000 and the highest percentage of failure over $45,000. To help secure a more
 beneficial to keep the goal under $5,000. 
 
 #### Pivot Chart Data
-<img width="619" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/100530465/156438845-315481ca-d947-4b6a-8984-d1e991d5a0cf.png">
+![Outcomes vs Goal](resources/Outcomes_vs_Goals.png)
 
 
 ## **Additional information**
