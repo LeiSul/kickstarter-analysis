@@ -38,11 +38,11 @@ beneficial to keep the goal under $5,000.
 
 ## **Data set limitations**
 
- 	We do run into some minor limitations with the data included since we don't have access to the attendees to gain 
+ We do run into some minor limitations with the data included since we don't have access to the attendees to gain 
  their perspective on why they decided to attend and what would prohibit them from attending. We could take a public
  opinion survey to gain more understanding of the why. 
   
 ## **Additional table recommendation**
 
-	It could also be valuable to run a comparison of goal amounts, pledged amounts and number of backers based on successful 
+It could also be valuable to run a comparison of goal amounts, pledged amounts and number of backers based on successful 
 or failed outcomes. This overall view could provide more insight into items that could promote success.
